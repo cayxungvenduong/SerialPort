@@ -1,0 +1,10 @@
+E:\CSharp\QRCodeEncoder\QRCodeEncoder\obj\Debug\QRCodeEncoder.Form1.resources
+E:\CSharp\QRCodeEncoder\QRCodeEncoder\obj\Debug\QRCodeEncoder.Properties.Resources.resources
+E:\CSharp\QRCodeEncoder\QRCodeEncoder\obj\Debug\QRCodeEncoder.csproj.GenerateResource.cache
+E:\CSharp\QRCodeEncoder\QRCodeEncoder\obj\Debug\QRCodeEncoder.csproj.CoreCompileInputs.cache
+E:\CSharp\QRCodeEncoder\QRCodeEncoder\bin\Debug\QRCodeEncoder.exe.config
+E:\CSharp\QRCodeEncoder\QRCodeEncoder\bin\Debug\QRCodeEncoder.exe
+E:\CSharp\QRCodeEncoder\QRCodeEncoder\bin\Debug\QRCodeEncoder.pdb
+E:\CSharp\QRCodeEncoder\QRCodeEncoder\obj\Debug\QRCodeEncoder.csprojAssemblyReference.cache
+E:\CSharp\QRCodeEncoder\QRCodeEncoder\obj\Debug\QRCodeEncoder.exe
+E:\CSharp\QRCodeEncoder\QRCodeEncoder\obj\Debug\QRCodeEncoder.pdb
